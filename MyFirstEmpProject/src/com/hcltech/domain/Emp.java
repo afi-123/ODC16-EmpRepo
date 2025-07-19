@@ -39,7 +39,7 @@ public class Emp {
 
 	@Override
 	public String toString() {
-		return "Emp [empId: " + empID + "empName: " + empName + "empSal: " + empSal;
+		return "Emp [empId: " + empID + "empName: " + empName + "empSal: " + empSal + "]";
 	}
 	
 	
